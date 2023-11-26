@@ -1,0 +1,21 @@
+
+/* all width and padding adjust with device width */
+*{
+    box-sizing:border-box;
+    font-family: Raleway;
+}
+
+html,body{
+   margin:0;
+   padding:0; 
+}
+
+.main-header{
+    background-image: url('images/Header Background.jpg');
+    background-size: cover;
+    padding-bottom: 30px;
+}
+
+.nav ul{
+    margin:0px;
+}

@@ -1,0 +1,9 @@
+body{
+    
+}
+
+.main-header{
+    background-image: url('images/Header Background.jpg');
+    background-size: cover;
+    padding-bottom: 30px;
+}
